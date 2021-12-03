@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e04ad30c-459c-4241-900e-b0daf32363d0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1eqyXO2aIwtjxZw6ekXFyHAbjCV" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../js" />
+    <property name="settings.editor.selected.configurable" value="liveEdit" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\web\js" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e04ad30c-459c-4241-900e-b0daf32363d0" name="Default Changelist" comment="" />
+      <created>1595063456882</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1595063456882</updated>
+      <workItem from="1595063459820" duration="586000" />
+      <workItem from="1595064081570" duration="1737000" />
+      <workItem from="1595158932780" duration="3605000" />
+      <workItem from="1595162692824" duration="1532000" />
+      <workItem from="1595164290850" duration="892000" />
+      <workItem from="1595227684568" duration="5821000" />
+      <workItem from="1595234075055" duration="590000" />
+      <workItem from="1595234682733" duration="1205000" />
+      <workItem from="1595331149568" duration="5742000" />
+      <workItem from="1595336965099" duration="3631000" />
+      <workItem from="1595349620799" duration="2019000" />
+      <workItem from="1595352058196" duration="351000" />
+      <workItem from="1595406188287" duration="77000" />
+      <workItem from="1595418066468" duration="2142000" />
+      <workItem from="1595488421069" duration="5731000" />
+      <workItem from="1595496926315" duration="1280000" />
+      <workItem from="1595513715854" duration="1749000" />
+      <workItem from="1595680719119" duration="4310000" />
+      <workItem from="1595749992401" duration="27000" />
+      <workItem from="1595750032930" duration="34000" />
+      <workItem from="1595750163311" duration="605000" />
+      <workItem from="1595760186913" duration="2252000" />
+      <workItem from="1595832341307" duration="4644000" />
+      <workItem from="1595851381618" duration="2000" />
+      <workItem from="1595927861854" duration="3172000" />
+      <workItem from="1595941730412" duration="1399000" />
+      <workItem from="1596095223710" duration="348000" />
+      <workItem from="1596095598943" duration="389000" />
+      <workItem from="1596096035880" duration="155000" />
+      <workItem from="1596096242870" duration="11000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="0" y="69" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1595065062436">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="0" y="69" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1595065062436" />
+    <state x="0" y="214" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1596096049757">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="0" y="214" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1596096049757" />
+    <state x="140" y="249" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1596096148513">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="140" y="249" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.0.1536.824@0.0.1536.824" timestamp="1596096148513" />
+    <state x="548" y="153" key="FileChooserDialogImpl" timestamp="1596096146497">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="548" y="153" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1596096146497" />
+    <state x="34" y="31" width="914" height="738" key="SettingsEditor" timestamp="1596096065130">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="34" y="31" width="914" height="738" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1596096065130" />
+    <state x="425" y="187" key="run.anything.popup" timestamp="1595333701905">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1595333701905" />
+    <state x="55" y="145" key="search.everywhere.popup" timestamp="1596096170093">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="55" y="145" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1596096170093" />
+  </component>
+</project>
